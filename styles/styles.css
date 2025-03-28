@@ -34,3 +34,9 @@ img {
 img:hover {
   opacity: 1;
 }
+
+@media all and (max-width: 720px) {
+  .container {
+    width: 100%;
+  }
+}
